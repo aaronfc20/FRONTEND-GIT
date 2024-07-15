@@ -1,0 +1,8 @@
+body, html, #root {
+  font-family: "Poppins", sans-serif;
+  max-width: 1920px;
+  margin: 0 auto; 
+  padding-bottom: 0px;
+  height: 100%;
+  
+}

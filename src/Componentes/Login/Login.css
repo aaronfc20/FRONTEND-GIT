@@ -1,0 +1,24 @@
+.LoginForm {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .LoginInput {
+    padding: 17px 25px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .LoginButton {
+    padding: 20px 85px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    background-color: black;
+    color: white;
+  }
+  
+  .LoginLabel {
+    font-size: 20px;
+  }
+  

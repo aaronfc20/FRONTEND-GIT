@@ -1,0 +1,58 @@
+.thanks-container .cent{
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+
+
+.thanks-container a {
+    
+    text-decoration: none;
+}
+
+.thanks-container a:hover {
+    text-decoration: underline;
+}
+
+.suggested-products {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.product-box {
+    margin: 0 10px;
+    text-align: center;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 200px; 
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+.product-box img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+
+.product-box h3 {
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+.product-box a {
+    font-size: 14px;
+    
+    text-decoration: none;
+}
+
+.product-box a:hover {
+    text-decoration: underline;
+}

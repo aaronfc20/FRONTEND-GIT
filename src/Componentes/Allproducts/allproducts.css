@@ -1,0 +1,162 @@
+#masven {
+  margin-left: 18px;
+}
+
+#nuevos {
+  margin-left: 32px;
+}
+
+.productos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px; 
+    justify-content: space-around; 
+    background-color:  rgb(202, 196, 196);
+    padding: 30px;
+    
+  }
+#compu {
+  width: 200px;
+  height: 180px;
+}
+
+section{
+  background: rgb(202, 196, 196);
+  margin-top: -20px;
+  margin-bottom: none;
+
+}
+
+  
+.caja {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 200px; 
+    box-sizing: border-box;
+  }
+  
+  .elemento img {
+    width: 100%;
+    height: 200px; 
+    object-fit: cover; 
+    display: block;
+  }
+  
+  
+  
+  .price {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+  }
+
+
+/*******************************************/
+
+  .boxc {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; 
+    justify-content: space-around; 
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 400px; 
+    box-sizing: border-box;
+    margin-bottom: 20px;
+  }
+  
+  .colec img {
+    width: 100%;
+    height: 200px; 
+    object-fit: cover; 
+    display: block;
+  }
+  
+  
+  
+  .price {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+  }
+
+  .boxcs{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; 
+    justify-content: space-around; 
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 400px; 
+    box-sizing: border-box;
+    margin-bottom: 20px;
+  }
+  
+.mov{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+.mov li .boxc{
+    height: 200px;
+    width: 700px;
+}
+
+.coleccion2 img {
+  width: 100%;
+  height: 200px; 
+  object-fit: cover; 
+  display: block;
+}
+.coleccion3 img {
+  width: 100%;
+  height: 200px; 
+  object-fit: cover; 
+  display: block;
+  
+}
+
+.coleccion2{
+  display: flex;
+  justify-content: space-between;
+  
+}
+.coleccion3{
+  display: flex;
+}
+
+.coleccion2 > div{
+  margin-right: 150px;
+  margin-top: -20px;
+  
+}
+.coleccion3 > div{
+  margin-right: 150px;
+  margin-top: -20px;
+}
+
+
+.coleccion2 div .jo{
+  margin-top: 70px;
+  margin-left: -100px;
+  
+}
+.coleccion3 div .je{
+  margin-top: 70px;
+  margin-left: -100px;
+  
+}
+  
+
+
+

@@ -1,0 +1,27 @@
+
+.pagination {
+    display: flex;
+    margin-bottom: 30px;
+    list-style-type: none;
+    padding: 0;
+    margin-right: 20px;
+    
+  }
+  
+  .pagination li {
+    margin-right: 10px;
+  }
+  
+  .pagination li a {
+    display: block;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    color: black;
+  }
+
+  
+  .pagination li.page-number:hover {
+    background: rgb(190, 187, 187);
+  }
+  

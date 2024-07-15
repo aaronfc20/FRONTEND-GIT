@@ -1,0 +1,24 @@
+.FormDiv {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .FormInput {
+    padding: 17px 70px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .FormButton {
+    padding: 17px 60px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    background-color: black;
+    color: white;
+  }
+  
+  .FormLabel {
+    font-size: 20px;
+  }
+  
